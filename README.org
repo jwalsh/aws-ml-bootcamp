@@ -1,0 +1,8 @@
+* Scenarios
+This is a review of the options for pulling data associated with some
+of the standard training sets used when setting up new ML
+environments.
+
+* Process
+
+  - change region to East

@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/use-sample-datasets
+https://gallery.azure.ai/industries/banking

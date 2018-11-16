@@ -1,0 +1,6 @@
+field         type     sum                 min          max             min_length  max_length  mean                stddev
+sepal-length  Float    876.5000000000002   4.3          7.9             3           3           5.843333333333333   0.8253012917851416
+sepal-width   Float    458.10000000000014  2            4.4             3           3           3.053999999999999   0.43214658007054363
+petal-length  Float    563.8000000000004   1            6.9             3           3           3.758666666666667   1.7585291834055208
+petal-width   Float    179.8000000000001   0.1          2.5             3           3           1.1986666666666665  0.760612618588172
+class         Unicode                      Iris-setosa  Iris-virginica  11          15
